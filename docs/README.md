@@ -47,6 +47,12 @@
   print(result) #Ответ:12
   ```
 ** **
+## Тестирование
+Для запуска unittest через консоль, необходимо написать:
+```
+python.exe -m unittest <название файла> 
+```
+** **
 ## Коммиты
 - Update rectangle.py, circle.py, triangle.py, square.py ( 6c830e0 f939f51 e4d289d 083b56e )
     В файлы были добавлены unittests
