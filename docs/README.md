@@ -54,8 +54,8 @@ python.exe -m unittest <название файла>
 ```
 ** **
 ## Коммиты
-- Update rectangle.py, circle.py, triangle.py, square.py ( 6c830e0 f939f51 e4d289d 083b56e )
-    В файлы были добавлены unittests
+- Added circle_test.py, triangle_test.py, square_test.py ( ad4c3d3 )
+    Были добавлены файлы unittest
 - Added rectangle.py ( 017b8c3 )
     Создал файл rectangle.py
 - Bug fixed ( 9b8e9c9 )
