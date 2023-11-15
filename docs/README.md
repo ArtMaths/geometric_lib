@@ -54,7 +54,7 @@ python.exe -m unittest <название файла>
 ```
 ** **
 ## Коммиты
-- Added circle_test.py, triangle_test.py, square_test.py ( ad4c3d3 )
+- Added circle_test.py, rectangle_test.py, triangle_test.py, square_test.py ( ad4c3d3 )
     Были добавлены файлы unittest
 - Added rectangle.py ( 017b8c3 )
     Создал файл rectangle.py
