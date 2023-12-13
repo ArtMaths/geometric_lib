@@ -52,6 +52,7 @@
 ```
 python.exe -m unittest <название файла> 
 ```
+Также есть файл main.yml, который позволяет запускать тесты из файлов
 ** **
 ## Коммиты
 - Added circle_test.py, rectangle_test.py, triangle_test.py, square_test.py ( ad4c3d3 )
